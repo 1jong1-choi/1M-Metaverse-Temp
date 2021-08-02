@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: a389b614f52fbf347a1533dbbf245033, type: 3}
   m_Name: PhotonAppSettings
-  m_EditorClassIdentifier: Photon Realtime MLAPI Transport:Photon.Realtime:PhotonAppSettings
+  m_EditorClassIdentifier: 
   AppSettings:
-    AppIdRealtime: 
+    AppIdRealtime: 0a9aa6e0-b87b-4924-898c-3ad063a3309a
     AppIdChat: 
     AppIdVoice: 
     AppVersion: 
@@ -26,5 +26,5 @@ MonoBehaviour:
     EnableProtocolFallback: 1
     AuthMode: 0
     EnableLobbyStatistics: 0
-    NetworkLogging: 1
-  DisableAutoOpenWizard: 0
+    NetworkLogging: 3
+  DisableAutoOpenWizard: 1

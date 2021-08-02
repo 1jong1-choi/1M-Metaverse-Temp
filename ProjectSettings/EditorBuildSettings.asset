@@ -6,6 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/1MDemo/1MStage.unity
+    path: Assets/1MDemo/Scenes/1MStage.unity
     guid: dc6a838478c474c70a1f75aa36d4e0b7
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Tutorials/RemoteProcedureCalls/Scenes/Scene_Main.unity
+    guid: e62a85ea6974be9448db81aa2528195b
+  - enabled: 0
+    path: Assets/Tutorials/PlayerNames/Scenes/Scene_Main.unity
+    guid: cfeb4c8450eb53343bb70ec1f217695a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e89f7fd99e4594b5d8f7e2b5d7da73d0, type: 2}
